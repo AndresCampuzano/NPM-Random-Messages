@@ -14,7 +14,7 @@
 	"author": "Andres Campuzano <campuxano88@gmail.com>",
 	"license": "MIT",
 	"bin": {
-		"random-msg": "bin/global.js"
+		"message": "bin/global.js"
 	},
 	"preferGlobal": true,
 	"repository": {
