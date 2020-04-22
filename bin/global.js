@@ -1,4 +1,4 @@
-#!/usr/bin/env mode
+#!/usr/bin/env node
 
 let random = require('../src/index.js');
 
