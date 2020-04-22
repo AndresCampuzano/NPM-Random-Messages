@@ -1,6 +1,6 @@
 {
 	"name": "platzi-npm-random-messages",
-	"version": "1.0.2",
+	"version": "1.0.3",
 	"description": "random de mensajes",
 	"main": "src/index.js",
 	"scripts": {
