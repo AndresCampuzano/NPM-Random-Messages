@@ -1,6 +1,6 @@
 # NPM-Random-Messages
 
-Get inspire yourself by random messages 'Thanks for code, you are building the future', 'Stop talking and lets code', etc.
+[This is just a practice project] Get inspire yourself by random messages 'Thanks for code, you are building the future', 'Stop talking and lets code', etc.
 
 ## Install
 
